@@ -23,9 +23,7 @@ Ordnerstruktur
 ## Verwendung
 
 Um das Projekt auszuführen, empfiehlt es sich, die Notebooks in der oben angegebenen Reihenfolge auszuführen. Jedes Notebook erzeugt ein Ergebnis, das von den nachfolgenden Notebooks verwendet wird.
-
-Die Daten können im Ordner "task_and_data" gefunden werden. Alle generierten Ergebnisse werden in separaten Ordnern gespeichert, um die Nachvollziehbarkeit des Projekts zu erleichtern. Darüber hinaus enthält das Projekt auch Abbildungen und Plots, die im Ordner "figures" gespeichert sind.
-
+Da der Datensatz zu groß ist, ist dieser jedoch nicht in diesem Repository hinterlegt.
 Zusätzlich wurden Helferfunktionen in die Datei "help_funcs.py" ausgelagert, um die Notebooks übersichtlicher zu gestalten.
 
 ## Autor
