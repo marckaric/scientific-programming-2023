@@ -11,15 +11,6 @@ Ordnerstruktur
     cluster_exploration.ipynb: Untersuchung der Cluster auf wesentliche Unterschiede unter den Clustern
     classification.ipynb: Training zweier Klassifizierer auf die Cluster und Vergleich
 
-### Zusätzlich enthält das Projekt folgende Ordner und Dateien:
-
-    figures: Diverse exportierte Abbildungen und Plots aus den Jupyter-Notebooks
-    models: Visualisierung der Entscheidungsbäume aus dem classification-Notebook
-    task_and_data: Aufgabenstellung und Daten
-    tweaked_datasets: Mehrere csv-Dateien, die durch die Jupyter Notebooks entstehen
-    presentation: Notebooks, figures und html-Dateien für die Präsentation
-    help_funcs.py: Python-Datei, die einige Helferfunktionen enthält, die in den Notebooks verwendet werden.
-
 ## Verwendung
 
 Um das Projekt auszuführen, empfiehlt es sich, die Notebooks in der oben angegebenen Reihenfolge auszuführen. Jedes Notebook erzeugt ein Ergebnis, das von den nachfolgenden Notebooks verwendet wird.
